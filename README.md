@@ -1,1 +1,1 @@
-# blog-preview-card
+I have created a blog preview card using HTML and CSS. Only the body and classes of '.name' , '.learning' has their display properties set to flex. Please note that there are no external stylesheets in this repository as the CSS code is written directly on the HTML document using <style> tags inside HTML head. 
